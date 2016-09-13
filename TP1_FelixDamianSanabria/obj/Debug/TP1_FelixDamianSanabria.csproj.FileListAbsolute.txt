@@ -1,0 +1,12 @@
+F:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\bin\Debug\TP1_FelixDamianSanabria.exe.config
+E:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\bin\Debug\TP1_FelixDamianSanabria.exe.config
+F:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\bin\Debug\TP1_FelixDamianSanabria.exe
+F:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\bin\Debug\TP1_FelixDamianSanabria.pdb
+F:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\obj\Debug\TP1_FelixDamianSanabria.csprojResolveAssemblyReference.cache
+F:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\obj\Debug\TP1_FelixDamianSanabria.Form1.resources
+F:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\obj\Debug\TP1_FelixDamianSanabria.Properties.Resources.resources
+F:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\obj\Debug\TP1_FelixDamianSanabria.csproj.GenerateResource.Cache
+F:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\obj\Debug\TP1_FelixDamianSanabria.exe
+F:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\obj\Debug\TP1_FelixDamianSanabria.pdb
+E:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\obj\Debug\TP1_FelixDamianSanabria.exe
+E:\UTN Avellaneda II Cuatrimestre\Laboratorio II\Sanabria.FelixD\SanabriaFelixD\TP1_FelixDamianSanabria\obj\Debug\TP1_FelixDamianSanabria.pdb
