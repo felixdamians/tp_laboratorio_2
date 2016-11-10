@@ -1,0 +1,10 @@
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

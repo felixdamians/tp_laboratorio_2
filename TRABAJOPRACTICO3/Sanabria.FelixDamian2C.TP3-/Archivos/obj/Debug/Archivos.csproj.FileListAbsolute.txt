@@ -1,0 +1,19 @@
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\bin\Debug\Archivos.dll
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\obj\Debug\Archivos.dll
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\bin\Debug\Archivos.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\obj\Debug\Archivos.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\Archivos\obj\Debug\Archivos.pdb
