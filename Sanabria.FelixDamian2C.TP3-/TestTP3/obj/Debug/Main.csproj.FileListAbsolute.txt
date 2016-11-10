@@ -1,0 +1,28 @@
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\TestTP3.exe.config
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\TestTP3.exe
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\TestTP3.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\Archivos.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\EntidadesAbstractas.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\Excepciones.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\ProyectosInstanciables.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\Archivos.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\EntidadesAbstractas.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\Excepciones.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\bin\Debug\ProyectosInstanciables.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\obj\Debug\Main.csprojResolveAssemblyReference.cache
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\obj\Debug\TestTP3.exe
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\TestTP3\obj\Debug\TestTP3.pdb
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\TestTP3.exe.config
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\TestTP3.exe
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\TestTP3.pdb
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\Archivos.dll
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\EntidadesAbstractas.dll
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\Excepciones.dll
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\ProyectosInstanciables.dll
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\Archivos.pdb
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\Excepciones.pdb
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\bin\Debug\ProyectosInstanciables.pdb
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\obj\Debug\TestTP3.exe
+C:\Users\OVERCROS\Documents\GitHub\Repositorio DamianSanabria\Sanabria.FelixDamian2C.TP3\TestTP3\obj\Debug\TestTP3.pdb
