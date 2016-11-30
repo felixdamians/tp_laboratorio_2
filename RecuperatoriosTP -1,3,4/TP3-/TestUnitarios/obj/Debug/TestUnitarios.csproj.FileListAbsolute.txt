@@ -1,0 +1,13 @@
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\obj\Debug\TestUnitarios.csprojResolveAssemblyReference.cache
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\EntidadesAbstractas.dll
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\EntidadesInstanciables.dll
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\Archivos.dll
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\bin\Debug\Archivos.pdb
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\TestUnitarios\obj\Debug\TestUnitarios.pdb
