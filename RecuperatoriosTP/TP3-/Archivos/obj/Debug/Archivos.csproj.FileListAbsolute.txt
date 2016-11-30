@@ -1,0 +1,7 @@
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\Archivos\bin\Debug\Archivos.dll
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\Archivos\bin\Debug\Archivos.pdb
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\Archivos\bin\Debug\Excepciones.dll
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\Archivos\obj\Debug\Archivos.dll
+C:\Users\OVERCROS\Desktop\TPs a Recuperar\TP3-DamianSanabria.2C\Archivos\obj\Debug\Archivos.pdb
